@@ -1,7 +1,7 @@
 ## Introduction
 Hellow
 
-## Website
+## Blog
 https://shawnbaek.com
 
 ## Contribute
