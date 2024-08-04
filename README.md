@@ -1,4 +1,4 @@
-<h1 align="center">Shawn Baek</h1>
+<h1 align="center">SHAWN BAEK</h1>
 
 <div align="right">
 
