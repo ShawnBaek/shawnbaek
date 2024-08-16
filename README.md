@@ -85,3 +85,9 @@ Research Area: Computer vision based Human Computer Interaction and Augmented Re
 ## PATENTS
 
 [EP3306546A4](https://patents.google.com/patent/EP3306546A4/en): User terminal device, terminal for payment, and method and system for payment using said user terminal device and terminal for payment (1st Inventor)
+
+## Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/shawnbaek?ext=activity)
+
+
