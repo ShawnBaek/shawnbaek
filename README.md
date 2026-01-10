@@ -5,13 +5,13 @@
 +65-8751-7471<br>
 [LinkedIn](https://www.linkedin.com/in/sungwookbaek/) | [GitHub](https://github.com/ShawnBaek)<br>
 [Blog](https://shawnbaek.com/category/ios-development/)<br>
-sungwook.baek@yahoo.com
+shawn@shawnbaek.com
 
 </div>
 
 ## PROFESSIONAL SUMMARY
 
-Dedicated **iOS Engineer** with exceptional problem-solving skills, API design expertise, and a robust UX foundation (6 years as a UX Engineer). Effective communicator and collaborative professional, adept at swiftly grasping new knowledge. Specializes in app architecture, user-facing UI development, specification (Requirement Analysis and Documentation), and iOS app performance tuning.
+Dedicated **Software Engineer** with exceptional problem-solving skills, API design expertise, and a robust UX foundation (6 years as a UX Engineer). Effective communicator and collaborative professional, adept at swiftly grasping new knowledge. Specializes in app architecture, user-facing UI development, specification (Requirement Analysis and Documentation), and iOS app performance tuning.
 
 - Large Scale Mobile App Development
 - Proficient in Object-Oriented Programming (OOP) Design
@@ -21,9 +21,40 @@ Dedicated **iOS Engineer** with exceptional problem-solving skills, API design e
 - Deep knowledge of Objective-C and Swift
 
 ## TECH STACKS
-- Swift, Objective-C, Javascript, SwiftUI, iOS Development, Server-Side Swift, AWS, EC2, RDS, Cloud9, PostgreSQL, Core Data, Core Animation, Core Location, App Architecture, Clean Architecture, RxSwift, Combine
+- Swift, Objective-C, Javascript, SwiftUI, iOS Development, Server-Side Swift, AWS, PostgreSQL, Core Data, Core Animation, Core Location, App Architecture, Clean Architecture, RxSwift, Combine
 
 ## PROFESSIONAL EXPERIENCE
+### Hipvan (Singapore), Chief Technology Officer
+#### Nov 2024 – Current
+Leading technical strategy for market expansion and sustainable growth across Singapore and Taiwan. Scaled engineering team from 8 to 17 developers (100% growth) and launched multiple products in 11 months.
+
+**Team & Process:**
+- Built and managed 17-person engineering team (including Engineering Managers, Mobile, Front-End, Back-End and QA)
+- Improved developer productivity by 30% through process improvements (cycle branches, OpenAPI code generation)
+- Reduced API integration time by 8-16 hours per developer with automated code generation
+- Established automated QA with self-hosted CI/CD and Appium
+- Increased backend test coverage from 5% to 88%
+
+**Infrastructure & Reliability:**
+- Set up production infrastructure: API Gateway, monitoring (AWS X-Ray, CloudWatch, Sentry)
+- Implemented data protection: S3 versioning, RDS snapshots, database read replicas
+- Maintained 99% crash-free rate across all applications
+- Achieved <400ms app launch time and <200ms API latency
+
+**Product Launches:**
+- **Communa App** (Dec 2024): Rebranded Hipvan app to community-focused platform
+  - iOS: [App Store](https://apps.apple.com/sg/app/communa-by-hipvan/id863030475)
+  - Android: [Play Store](https://play.google.com/store/apps/details?id=com.hipvanCommuna.sg)
+  
+- **Communa Web** (Apr 2025): E-commerce platform - [communa.sg](https://www.communa.sg)
+
+- **Short-form Video Feed** (Jul 2025): Social commerce feature across SG/TW markets
+
+- **Taiwan App** (Sep 2025): Market expansion, delivered in 6 weeks
+  - iOS: [App Store](https://apps.apple.com/tw/app/ohouse-taiwan/id6749665105)
+  - Android: [Play Store](https://play.google.com/store/apps/details?id=com.ohouse.tw)
+  - Web: [ohouse.tw](https://www.ohouse.tw)
+ 
 
 ### 99 Group | 99.co (Singapore), PropTech iOS App, Mobile Lead + Senior iOS Engineer
 #### Aug 2021 – June 2024
