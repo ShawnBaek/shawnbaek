@@ -11,7 +11,7 @@ shawn@shawnbaek.com
 
 ## PROFESSIONAL SUMMARY
 
-Dedicated **Software Engineer** with exceptional problem-solving skills, API design expertise, and a robust UX foundation (6 years as a UX Engineer). Effective communicator and collaborative professional, adept at swiftly grasping new knowledge. Specializes in app architecture, user-facing UI development, specification (Requirement Analysis and Documentation), and iOS app performance tuning.
+Dedicated **Software Engineer** specialized in iOS fileds with exceptional problem-solving skills, API design expertise, and a robust UX foundation (6 years as a UX Engineer). Effective communicator and collaborative professional, adept at swiftly grasping new knowledge. Specializes in app architecture, user-facing UI development, specification (Requirement Analysis and Documentation), and iOS app performance tuning.
 
 - Large Scale Mobile App Development
 - Proficient in Object-Oriented Programming (OOP) Design
