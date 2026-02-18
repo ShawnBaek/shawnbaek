@@ -10,18 +10,16 @@ shawn@shawnbaek.com
 </div>
 
 ## PROFESSIONAL SUMMARY
+CTO and Engineering Leader with a strong foundation in iOS development and UX engineering. Experienced in scaling engineering teams, defining technical strategy, and shipping products across multiple markets. Specializes in mobile app architecture, API design, and iOS performance tuning.
 
-Dedicated **Software Engineer** specialized in iOS fileds with exceptional problem-solving skills, API design expertise, and a robust UX foundation (6 years as a UX Engineer). Effective communicator and collaborative professional, adept at swiftly grasping new knowledge. Specializes in app architecture, user-facing UI development, specification (Requirement Analysis and Documentation), and iOS app performance tuning.
-
-- Large Scale Mobile App Development
-- Proficient in Object-Oriented Programming (OOP) Design
-- Optimizing iOS App Performance
-- High Quality UI Development (SwiftUI+UIKit)
-- Unit Test (TDD), UI Test and Snapshot Test
-- Deep knowledge of Objective-C and Swift
+In my free time, I build libraries for the Swift community and keep researching computer vision. My master's thesis was on computer vision-based HCI and Augmented Reality, and I'm now especially interested in on-device AI.
 
 ## TECH STACKS
-- Swift, Objective-C, Javascript, SwiftUI, iOS Development, Server-Side Swift, AWS, PostgreSQL, Core Data, Core Animation, Core Location, App Architecture, Clean Architecture, RxSwift, Combine
+- Languages: Swift, Objective-C, C/C++, JavaScript
+- High Performance UI: SwiftUI, UIKit, Core Animation, RxSwift, Combine
+- Database Design: PostgreSQL, Core Data, CloudKit
+- System & API Design: OpenAPI, REST API, AWS, CI/CD
+- OOP & App Architecture: Clean Architecture, MVVM, TDD
 
 ## PROFESSIONAL EXPERIENCE
 ### Hipvan (Singapore), Chief Technology Officer
@@ -56,7 +54,7 @@ Leading technical strategy for market expansion and sustainable growth across Si
   - Web: [ohouse.tw](https://www.ohouse.tw)
  
 
-### 99 Group | 99.co (Singapore), PropTech iOS App, Mobile Lead + Senior iOS Engineer
+### 99 Group | 99.co (Singapore), Mobile Lead & Senior iOS Engineer
 #### Aug 2021 – June 2024
 
 Product: [99.co iOS App](https://apps.apple.com/sg/app/99-co-singapore-property-hdbs/id935675660) (2nd most used Real Estate App in Singapore)
