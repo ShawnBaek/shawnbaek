@@ -15,7 +15,7 @@ CTO and Engineering Leader with a strong foundation in iOS development and UX en
 In my free time, I build libraries for the Swift community and keep researching computer vision. My master's thesis was on computer vision-based HCI and Augmented Reality, and I'm now especially interested in on-device AI.
 
 ## TECH STACKS
-- Languages: Swift, Objective-C, C/C++, JavaScript
+- Languages: Swift, Objective-C, C/C++, Python
 - High Performance UI: SwiftUI, UIKit, Core Animation, RxSwift, Combine
 - Database Design: PostgreSQL, Core Data, CloudKit
 - System & API Design: OpenAPI, REST API, AWS, CI/CD
