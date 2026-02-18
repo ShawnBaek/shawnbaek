@@ -16,9 +16,10 @@ In my free time, I build libraries for the Swift community and keep researching 
 
 ## TECH STACKS
 - Languages: Swift, Objective-C, C/C++, Python
-- High Performance UI: SwiftUI, UIKit, Core Animation, RxSwift, Combine
+- High Performance UI: SwiftUI, UIKit, Core Animation / Graphics, Principles of Animation
 - Database Design: PostgreSQL, Core Data, CloudKit
 - System & API Design: OpenAPI, REST API, AWS, CI/CD
+- Machine Learning & Vision: Core ML, Create ML, Vision Framework
 - OOP & App Architecture: Clean Architecture, MVVM, TDD
 
 ## PROFESSIONAL EXPERIENCE
