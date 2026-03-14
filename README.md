@@ -1,6 +1,6 @@
 # Shawn Baek
 
-**CTO & Senior iOS/Swift Engineer**
+**CTO & iOS/Swift Engineer**
 
 Engineering leader with 14+ years building Apple platform products — from Samsung's Galaxy preloaded apps to scaling a 17-person engineering team as CTO. I design frameworks, ship production apps, and care deeply about performance and developer experience.
 
