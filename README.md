@@ -6,7 +6,6 @@ Engineering leader with 14+ years building Apple platform products — from Sams
 
 ### What I Build
 
-- **[latex-software-engineer-cv](https://github.com/ShawnBaek/latex-software-engineer-cv)** — Role-based CV generator with auto-scaling, zero dependencies (Swift + Python/LaTeX)
 - **[SwiftUI-For-Web](https://github.com/ShawnBaek/SwiftUI-For-Web)** — SwiftUI's declarative API for the browser, zero dependencies
 - **[Table](https://github.com/ShawnBaek/Table)** — Swift library for beautifully formatted table output
 - **[XRay](https://github.com/ShawnBaek/XRay)** — Visual debugging tool for Apple platform view hierarchies
