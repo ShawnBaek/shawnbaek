@@ -16,7 +16,6 @@ Engineering leader with 14+ years building Apple platform products — from Sams
 
 - Patent holder: [EP3306546A4](https://patents.google.com/patent/EP3306546A4/en) — Payment system (1st inventor)
 - Speaker: [letswift 2019](https://www.slideshare.net/ssuserfc47fa/behind-scene-of-delightful-experience-letswift-2019) · LINE Fintech 2021
-- Scaled engineering team 8 → 17 as CTO at Hipvan
 - Maintained 99%+ crash-free rates across production apps
 
 ### Skills
